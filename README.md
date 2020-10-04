@@ -19,10 +19,10 @@ Sequential model is used. For model architecture and parameters, I compare up to
 2. Model 1 also track the actual data over time better than Model 2.
 
 Model 1
-![](Model1.png)
+![Model1](Model1.png)
 
 Model2
-![](Model2.png)
+![Model2](Model2.png)
 
 3. From varying the window size, window size of 2 days work best. 1-day window size has higher loss compared to using 1-day window size and does not work in Model 2.
 
